@@ -10,5 +10,11 @@ public class SampleCode {
   			str = str + arrayOfStrings[i];
 		}
 
+		int x = 0;
+		if (true)
+     	  		x = x+1;
+   		else
+     	  		x = x-1;
+
 	}
 }
